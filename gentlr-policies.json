@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "name": "Code Helper (Plugin)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Code Helper (GPU)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Google Chrome Helper (GPU)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Google Chrome Helper (Plugin)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Microsoft Edge Helper (GPU)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Microsoft Edge Helper (Plugin)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Slack Helper (GPU)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Slack Helper (Plugin)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Discord Helper (GPU)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Discord Helper (Plugin)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Notion Helper (GPU)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Notion Helper (Plugin)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Figma Helper (GPU)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Figma Helper (Plugin)",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Dropbox Helper",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Google Drive Helper",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "OneDrive Finder Integration",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Crashpad",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Updater",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Telemetry",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Language Server",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "node server",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "python server",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Electron Helper",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Renderer Helper",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "GPU Helper",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "Plugin Helper",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "background helper",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "sync helper",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    },
+    {
+      "name": "index helper",
+      "enabled": false,
+      "threshold": 0.95,
+      "max_kill_per_cycle": 1,
+      "min_rss_mb": 150
+    }
+  ]
+}
